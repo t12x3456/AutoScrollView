@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testAutoScroll</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="content1">"Stack Overflow is a question and answer site for professional and enthusiast programmers. It's 100% free, no registration required. "</string>
+    <string name="content2">I\'m currently wanting to use custom controls from another project. Its referenced, and I\'ve re-built the entire project, though the controls are not appearing in the designer. I\'d rather not add the controls programatically. I\'m stumped as to how to get the custom controls to appear.</string>
+
+</resources>

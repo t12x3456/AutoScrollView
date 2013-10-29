@@ -1,0 +1,1 @@
+https://github.com/t12x3456/AutoScrollView.git
